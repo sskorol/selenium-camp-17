@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke suite">
+	<test name="SC17 tests">
+		<classes>
+			<class name="io.github.sskorol.testcases.SC17Java8WithoutDPTests"/>
+		</classes>
+	</test>
+</suite>
