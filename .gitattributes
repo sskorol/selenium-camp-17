@@ -1,1 +1,1 @@
-/src/test/resources/app/* linguist-vendored=false
+*.html linguist-vendored=false
