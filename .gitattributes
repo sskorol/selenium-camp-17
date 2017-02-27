@@ -1,2 +1,1 @@
-special-vendored-path/* linguist-vendored
-/src/test/resources/app/catalog.html linguist-vendored=false
+/src/test/resources/app/* linguist-vendored=false
